@@ -8,3 +8,7 @@ __pycache__/
 thumbs.db
 .DS_Store
 .idea
+
+*.pt
+notebooks/clip_feature_maps/**
+!notebooks/clip_feature_maps/.empty
